@@ -12,7 +12,7 @@ Here's a high-level overview of how such a system could work:
 
 Allow users to query their reputation scores and rankings within the system.
 
-
+<pre>
 +-----------------------------+
 |        Reputation System    |
 +-----------------------------+
@@ -35,3 +35,4 @@ Allow users to query their reputation scores and rankings within the system.
 |  +-----------------------+  |
 |                             |
 +-----------------------------+
+</pre>
